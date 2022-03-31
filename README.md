@@ -16,7 +16,7 @@ Channel estimation is one of the foremost challenges for realizing practical mil
 
 ## Content of Code Package
 
-The package generates the simulation SE results which are used in Figure 6, Figure 7, Figure 8, and Figure 9. To be specific:
+The package generates the simulation results:
 
 - `CBDNet.py`: Main function;
 - `models.py`: Generate the CBDNet Network;
